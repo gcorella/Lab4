@@ -1,5 +1,6 @@
 package netgame.common;
 
+
 import java.io.Serializable;
 
 /**

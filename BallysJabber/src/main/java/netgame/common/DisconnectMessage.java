@@ -11,6 +11,7 @@ import java.io.Serializable;
  */
 final class DisconnectMessage implements Serializable {
 
+	
     /**
      * The message associated with the disconnect.  When the Hub
      * sends disconnects because it is shutting down, the message

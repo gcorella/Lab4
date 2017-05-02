@@ -36,6 +36,7 @@ public class PokerTableController implements Initializable {
 	public PokerTableController() {
 	}
 
+	
 	@FXML
 	private Label lblWinningPlayer;
 	@FXML
